@@ -1,0 +1,25 @@
+{
+  "name": "hhxneed-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node-sass": "node-sass scss/custom.scss main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hy7721/hhxneed-bootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hy7721/hhxneed-bootstrap/issues"
+  },
+  "homepage": "https://github.com/hy7721/hhxneed-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "node-sass": "^8.0.0"
+  }
+}
